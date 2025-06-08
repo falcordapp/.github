@@ -2,11 +2,15 @@
 ![Herple...](https://github.com/falcordapp/FalCordV3/raw/main/hurple.png)
 ## Hi there 👋
 
-Welcome to FalCords github!
+Welcome to FalCord's github! We make old Discord work again, remember those OG 2015 moments? Time machines exist now! Go back to the better times with Falcord! Wooo, no bloat!
+
+It's pretty early, so please contribute if you can! @someone!!
 
 Official instance: https://falcord.erroroliver.lol
 
 <!--
+Made with love! ❤
+
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
