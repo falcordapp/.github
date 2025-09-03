@@ -6,7 +6,7 @@ Welcome to FalCord's github! We make old Discord work again, remember those OG 2
 
 It's pretty early, so please contribute if you can! @someone!!
 
-Official instance: https://falcord.erroroliver.lol
+Official instance: https://falcord.ixchats.com
 
 <!--
 Made with love! ❤
